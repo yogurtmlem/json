@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "article_id": 1,
+      "article_title": "Bài viết 1",
+      "article_image": "https://picsum.photos/id/10/600/800",
+      "article_description": "Nội dung bài viết số 1.",
+      "user": {
+        "id": 1,
+        "uname": "vy",
+        "password": "123456",
+        "url_profile": "https://picsum.photos/id/64/200/200",
+        "short_bio": "Sinh viên UEH"
+      }
+    },
+    {
+      "article_id": 2,
+      "article_title": "Bài viết 2",
+      "article_image": "https://picsum.photos/id/20/600/800",
+      "article_description": "Nội dung bài viết số 2.",
+      "user": {
+        "id": 1,
+        "uname": "vy",
+        "password": "123456",
+        "url_profile": "https://picsum.photos/id/64/200/200",
+        "short_bio": "Sinh viên UEH"
+      }
+    },
+    {
+      "article_id": 3,
+      "article_title": "Bài viết 3",
+      "article_image": "https://picsum.photos/id/30/600/800",
+      "article_description": "Nội dung bài viết số 3.",
+      "user": {
+        "id": 2,
+        "uname": "mavis",
+        "password": "abcdef",
+        "url_profile": "https://picsum.photos/id/91/200/200",
+        "short_bio": "Thích viết blog"
+      }
+    }
+  ]
+}
